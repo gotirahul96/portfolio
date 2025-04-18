@@ -25,7 +25,7 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   if (pathname === "/") {
-    navigate("/rajkumarmahto.com");
+    navigate("/rahulgoti.com");
   }
 
   return (
