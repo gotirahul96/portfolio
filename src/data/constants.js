@@ -12,7 +12,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/gotirahul96",
   resume: "",
-  linkedin: "www.linkedin.com/in/rahul-goti",
+  linkedin: "https://linkedin.com/in/rahul-goti",
   twitter: "https://x.com/RGoti74421",
   insta: "https://www.instagram.com/rahulgoti/",
   facebook: "https://www.facebook.com/rahul.goti1",
