@@ -33,8 +33,8 @@ const Projects = ({ openModal, setOpenModal }) => {
               All
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "web app" ? (
+          {/* <Divider /> */}
+          {/* {toggle === "web app" ? (
             <ToggleButton
               active
               value="web app"
@@ -46,14 +46,14 @@ const Projects = ({ openModal, setOpenModal }) => {
             <ToggleButton value="web app" onClick={() => setToggle("web app")}>
               WEB APP'S
             </ToggleButton>
-          )}
-          <Divider />
+          )} */}
+          {/* <Divider /> */}
           {/* {toggle === 'android app' ?
             <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
             :
             <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
           } */}
-          <Divider />
+          {/* <Divider /> */}
           {/* {toggle === 'react native' ?
             <ToggleButton active value="react native" onClick={() => setToggle('react native')}>React Native Application </ToggleButton>
             :
