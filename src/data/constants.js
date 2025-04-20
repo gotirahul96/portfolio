@@ -177,7 +177,7 @@ export const experiences = [
     img: '',
     role: "Software Engineer",
     company: "Linkusol Technologies Pvt Ltd",
-    date: "Feb 2021 - Mar 2023",
+    date: "Feb 2021 - Mar 2022",
     desc: `Managed end-to-end mobile app development projects, contributing to architecture design and scalable system improvements.
     • Implemented state management solutions (Bloc, Provider, Getx) that enhanced app efficiency by 40%, emphasizing robust technical
     strategy.
@@ -294,10 +294,10 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
