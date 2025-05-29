@@ -11,13 +11,12 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/gotirahul96",
-  resume: "https://drive.google.com/file/d/1xewRWI41fmSSpVoG73iCs45ku28pKiRN/view",
+  resume: "https://drive.google.com/file/d/1PShwlvdAZ1N25khhV4GyzrVT_THRLeXq/view",
   linkedin: "https://linkedin.com/in/rahul-goti",
   twitter: "https://x.com/RGoti74421",
   insta: "https://www.instagram.com/rahulgoti/",
   facebook: "https://www.facebook.com/rahul.goti1",
 };
-
 export const skills = [
   {
     title: "Frontend",
